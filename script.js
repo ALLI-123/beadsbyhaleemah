@@ -2,64 +2,48 @@
         const products = [
             {
                 id: 1,
-                title: "Handmade Ceramic Mug",
-                tag: "Ceramics",
+                title: "Handmade Bag",
+                tag: "Beads",
                 price: "₦12,500",
                 image: "https://images.unsplash.com/photo-1574169487961-43bf8b5e4e81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
             {
                 id: 2,
-                title: "Woven Wall Hanging",
-                tag: "Textiles",
-                price: "₦22,500",
+                title: "Beads Necklace",
+                tag: "Beads",
+                price: "₦10,500",
                 image: "https://images.unsplash.com/photo-1605733513597-45b4cd6aaf8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
             {
                 id: 3,
-                title: "Wooden Serving Board",
-                tag: "Woodwork",
-                price: "₦16,250",
+                title: "Beads Bracelet",
+                tag: "with Beads",
+                price: "₦10,000",
                 image: "https://images.unsplash.com/photo-1606787620819-8bdf0c44c293?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
             {
                 id: 4,
-                title: "Silver Hoop Earrings",
+                title: "Beads Earrings",
                 tag: "Jewelry",
                 price: "₦9,500",
                 image: "https://images.unsplash.com/photo-1605926525185-7a4c2e4fc2f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
             {
                 id: 5,
-                title: "Hand-Knit Throw Blanket",
-                tag: "Textiles",
-                price: "₦34,000",
+                title: "Hand-Knit Wrist Band",
+                tag: "with Beads",
+                price: "₦5,000",
                 image: "https://images.unsplash.com/photo-1602235345467-3bb1b5c7e8f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
             {
                 id: 6,
-                title: "Ceramic Plant Pot",
-                tag: "Ceramics",
-                price: "₦10,000",
+                title: "Beads Pendant",
+                tag: "wired with Beads",
+                price: "SOLD OUT",
                 image: "https://images.unsplash.com/photo-1605733513597-45b4cd6aaf8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
             },
 
-            {
-                id: 6,
-                title: "Ceramic Plant Pot",
-                tag: "Ceramics",
-                price: "₦10,000",
-                image: "https://images.unsplash.com/photo-1605733513597-45b4cd6aaf8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
-            },
-
-            {
-                id: 6,
-                title: "Ceramic Plant Pot",
-                tag: "Ceramics",
-                price: "₦10,000",
-                image: "https://images.unsplash.com/photo-1605733513597-45b4cd6aaf8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
-            }
-
-
+            
         ];
 
         // Render products
